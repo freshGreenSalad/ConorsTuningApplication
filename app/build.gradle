@@ -63,6 +63,7 @@ dependencies {
     implementation 'androidx.compose.material3:material3:1.1.0-alpha08'
     implementation 'androidx.compose.material:material:1.3.1'
     implementation 'androidx.compose.animation:animation-graphics'
+    implementation files('libs\\TarsosDSP-Android-2.4.jar')
 
     testImplementation 'junit:junit:4.13.2'
     testImplementation 'org.robolectric:robolectric:4.9'
